@@ -13,7 +13,7 @@ require(knitcitations)
 ## Loading required package: knitcitations
 ```
 
-the statistical principles of image normalization (SPIN), taken from Shinohara, Sweeney, Goldsmith, Shiee, Mateen, Calabresi, Jarso, Pham, Reich, and Crainiceanu (2014)
+the statistical principles of image normalization (SPIN), taken from [Shinohara, Sweeney, Goldsmith, Shiee, Mateen, Calabresi, Jarso, Pham, Reich, and Crainiceanu (2014)](http://www.sciencedirect.com/science/article/pii/S221315821400117X)
 
 The normalization process should produce units that:
 

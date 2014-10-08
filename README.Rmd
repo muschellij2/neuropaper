@@ -8,7 +8,7 @@ We have done a series of papers in neuroimaging using statistical methods and st
 require(knitcitations)
 ```
 
-the statistical principles of image normalization (SPIN), taken from `r citet("10.1016/j.nicl.2014.08.008")`
+the statistical principles of image normalization (SPIN), taken from [`r citet("10.1016/j.nicl.2014.08.008")`](http://www.sciencedirect.com/science/article/pii/S221315821400117X)
 
 The normalization process should produce units that:
 
